@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA with C++**
 
-- 📫 How to reach me **manamritsingh426@mail.com**
+- 📫 How to reach me **manamritsingh426@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
