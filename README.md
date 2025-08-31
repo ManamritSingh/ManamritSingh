@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_manamrit_" target="blank"><img src="https://img.shields.io/twitter/follow/_manamrit_?logo=twitter&style=for-the-badge" alt="_manamrit_" /></a> </p>
 
-- 🌱 I’m currently practising **DSA problems on leetcode and geeksforgeeks**
+- 🌱 I’m currently practising **CS Grad at NYUs**
 
 - 📫 How to reach me **manamritsingh426@gmail.com**
 
